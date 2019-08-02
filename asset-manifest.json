@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-bootstrap-crud/static/css/main.311f45db.chunk.css",
+    "main.js": "/react-bootstrap-crud/static/js/main.bf0ceb86.chunk.js",
+    "main.js.map": "/react-bootstrap-crud/static/js/main.bf0ceb86.chunk.js.map",
+    "runtime~main.js": "/react-bootstrap-crud/static/js/runtime~main.47f463eb.js",
+    "runtime~main.js.map": "/react-bootstrap-crud/static/js/runtime~main.47f463eb.js.map",
+    "static/js/2.f69dd98d.chunk.js": "/react-bootstrap-crud/static/js/2.f69dd98d.chunk.js",
+    "static/js/2.f69dd98d.chunk.js.map": "/react-bootstrap-crud/static/js/2.f69dd98d.chunk.js.map",
+    "index.html": "/react-bootstrap-crud/index.html",
+    "precache-manifest.939a9a983a259533fc5c663a6cc32c54.js": "/react-bootstrap-crud/precache-manifest.939a9a983a259533fc5c663a6cc32c54.js",
+    "service-worker.js": "/react-bootstrap-crud/service-worker.js",
+    "static/css/main.311f45db.chunk.css.map": "/react-bootstrap-crud/static/css/main.311f45db.chunk.css.map",
+    "static/media/logo.svg": "/react-bootstrap-crud/static/media/logo.ee7cd8ed.svg"
+  }
+}
